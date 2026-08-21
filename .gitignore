@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+clarity_test_venv/
+.streamlit/secrets.toml
+*.egg-info/
+.DS_Store
+nltk_data/
+*.log
+install.log
+spacy_dl.log
+spacy_model.log
+nltk_dl.log
