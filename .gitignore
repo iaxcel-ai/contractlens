@@ -3,7 +3,6 @@ __pycache__/
 .venv/
 venv/
 clarity_test_venv/
-.streamlit/secrets.toml
 *.egg-info/
 .DS_Store
 nltk_data/

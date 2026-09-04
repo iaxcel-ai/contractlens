@@ -4,4 +4,4 @@ joblib
 spacy
 sumy
 nltk
-streamlit
+flask
