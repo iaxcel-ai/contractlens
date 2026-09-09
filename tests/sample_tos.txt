@@ -1,0 +1,15 @@
+Welcome to ExampleApp. By creating an account, you agree to the following Terms of Service.
+
+1. Subscription and Fees. A monthly subscription fee of $9.99 will be charged to your payment method on file. We reserve the right to change our fees at any time without prior notice, effective immediately upon posting to the website.
+
+2. Auto-Renewal. This subscription automatically renews for successive one-year terms unless you cancel at least 30 days before the renewal date. By accepting these terms, you agree that your subscription will silently auto-renew and your card will be charged automatically without further notice.
+
+3. Cancellation. No cancellations, refunds, or exchanges will be permitted under any circumstances once payment has been made.
+
+4. Data Sharing. We may share your personal information with third-party partners for marketing purposes unless you opt out. Your data may be shared with our affiliates, advertisers, and unspecified business partners for any purpose we deem appropriate.
+
+5. Liability. We shall not be held liable for any damages whatsoever, including but not limited to loss of profits, data, or business, even if advised of the possibility of such damages.
+
+6. Dispute Resolution. Any disputes arising from this Agreement shall be resolved through binding arbitration administered by the American Arbitration Association. You agree to waive your right to a jury trial and to participate in a class action lawsuit against us.
+
+7. General. This Agreement constitutes the entire agreement between the parties and supersedes all prior discussions. This Agreement is governed by and construed in accordance with the laws of the State of California.
